@@ -7,6 +7,9 @@
 ## latihan3
 ![Screenshot (23)](https://github.com/arjuna46/latihan3/assets/147571007/5bb3742e-b2d8-4cbd-80a5-acb5bf04ea07)
 
+menghitung luas dan keliling lingkaran
+![Screenshot (24)](https://github.com/arjuna46/latihan3/assets/147571007/391b3782-88a4-4558-a70c-91be8776f722)
+
 -membuat belah ketupat
 ## command 
  - git add dapat digunakan secara spesifik untuk file tertentu atau direktori, memberikan Anda fleksibilitas untuk memilih perubahan mana yang akan dimasukkan dalam staging 
